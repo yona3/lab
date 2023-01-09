@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yona3/lab",
+  "author": "yona3",
+  "license": "MIT",
+  "scripts": {
+    "commit": "git cz"
+  },
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
+}
