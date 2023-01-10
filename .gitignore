@@ -1,4 +1,4 @@
 /node_modules
 
 # pj:fastapi-study
-/fastapi-study/api/__pycache__/*
+/fastapi-study/**/__pycache__/*
