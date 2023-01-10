@@ -30,7 +30,7 @@ module.exports = {
   scopes: [
     "lab", // このプロジェクト全体
     // pj
-    // "pj:example", // プロジェクトの説明
+    "pj:fastapi-study", // FastAPI学習
   ],
   types: {
     init: {
